@@ -1,0 +1,710 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>The Sqor Blog</title>
+
+<meta name="keywords" content="">
+
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="The Sqor Blog">
+
+<meta name="twitter:site" content="@sqor">
+<meta name="twitter:creator" content="@sqor">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://localhost:4000/images/default-thumb.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="The Sqor Blog">
+
+<meta property="og:url" content="http://localhost:4000/feed.xml">
+<meta property="og:site_name" content="The Sqor Blog">
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/feed.xml">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="The Sqor Blog Feed">
+
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://localhost:4000/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://localhost:4000/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://localhost:4000/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://localhost:4000">The Sqor Blog</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+
+
+
+	<img src="http://localhost:4000/images/sqor.png" class="bio-photo" alt="Sqor, Inc. bio photo"></a>
+
+<h3>Sqor, Inc.</h3>
+<p>Sqor is a groundbreaking social gaming and publishing platform that delivers content from more professional and amateur athletes.</p>
+<a href="mailto:feedback@sqor.com" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>
+<a href="http://twitter.com/sqor" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>
+<a href="http://facebook.com/sqor" class="author-social" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a>
+
+
+
+
+
+
+
+
+<a href="http://www.pinterest.com/sqor" class="author-social" target="_blank"><i class="fa fa-pinterest"></i> Pinterest</a>
+
+
+  </div>
+  <article>
+    <div class="headline-wrap">
+      
+        <h1><a href="http://localhost:4000/feed.xml" rel="bookmark" title=""></a></h1>
+      
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">The Sqor Blog</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2015-02-26T16:02:56+05:30</updated>
+<id>http://localhost:4000/</id>
+<author>
+<name>Sqor, Inc.</name>
+<uri>http://localhost:4000/</uri>
+<email>feedback@sqor.com</email>
+</author>
+
+
+
+
+<entry>
+<title type="html"><![CDATA[Sqor Sports Case Study]]></title>
+<link rel="alternate" type="text/html" href="http://localhost:4000/sqor-sports-case-study/" />
+<id>http://localhost:4000/sqor-sports-case-study</id>
+<published>2014-12-12T01:02:36+05:30</published>
+<updated>2014-12-12T01:02:36+05:30</updated>
+<author>
+<name>Sqor, Inc.</name>
+<uri>http://localhost:4000</uri>
+<email>feedback@sqor.com</email>
+</author>
+<content type="html">&lt;p&gt;&lt;a href=&quot;https://sqor.com/&quot;&gt;Sqor Sports&lt;/a&gt; created an integrated program with athletes &lt;a href=&quot;https://sqor.com/athlete/28396/Patrick-Peterson&quot;&gt;Patrick Peterson&lt;/a&gt;, &lt;a href=&quot;https://sqor.com/athlete/8001/Michael-Chandler&quot;&gt;Michael Chandler&lt;/a&gt; and &lt;a href=&quot;https://sqor.com/athlete/28846/Sebastian-Telfair&quot;&gt;Sebastian Telfair&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Each athlete campaign leverages their fans and drives engagement on Sqor. For example, a contest was set up for Sqor Sports Fans to simply vote on Patrick’s post to determine which shoe he would wear on-field. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The results were astounding:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;170% increase in Sqor Sports followers,   &lt;/li&gt;
+  &lt;li&gt;34.1% engagement rate, &lt;/li&gt;
+  &lt;li&gt;and lifelong memories to fans on Sqor Sports. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;michael-chandler-and-sebastian-telfair-have-had-similar-results&quot;&gt;&lt;strong&gt;Michael Chandler&lt;/strong&gt; and &lt;strong&gt;Sebastian Telfair&lt;/strong&gt; have had similar results:&lt;/h4&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+    &lt;a href=&quot;https://sqor.com/rest/images/transform?width=500&amp;amp;transform=RotateExif,ScaleFitWidth&amp;amp;imageUrl=https://prod-cdn-ugc.sqor.com/4ab70c0e-575c-4fa0-bca2-0a1495a79c82.jpg&quot;&gt;&lt;img src=&quot;https://sqor.com/rest/images/transform?width=500&amp;amp;transform=RotateExif,ScaleFitWidth&amp;amp;imageUrl=https://prod-cdn-ugc.sqor.com/4ab70c0e-575c-4fa0-bca2-0a1495a79c82.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://sqor.com/rest/images/transform?width=450&amp;amp;transform=RotateExif,ScaleFitWidth&amp;amp;imageUrl=https://prod-cdn-ugc.sqor.com/28b2ed3d-8660-46e2-a748-d9691b9a2614.jpg&quot;&gt;&lt;img src=&quot;https://sqor.com/rest/images/transform?width=450&amp;amp;transform=RotateExif,ScaleFitWidth&amp;amp;imageUrl=https://prod-cdn-ugc.sqor.com/28b2ed3d-8660-46e2-a748-d9691b9a2614.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;figcaption&gt;Athlete Engagement on Sqor Sports&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h6 id=&quot;learn-more-about-this-case-study-email-presssqorcom&quot;&gt;Learn more about this case study email press@sqor.com.&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/sqor-sports-case-study/&quot;&gt;Sqor Sports Case Study&lt;/a&gt; was originally published by Sqor, Inc. at &lt;a href=&quot;http://localhost:4000&quot;&gt;The Sqor Blog&lt;/a&gt; on December 12, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+
+
+<entry>
+<title type="html"><![CDATA[Hacking iFrames for Fun & Proper Image Orientation]]></title>
+<link rel="alternate" type="text/html" href="http://localhost:4000/hacking-iframes-for-fun-and-proper-image-orientation/" />
+<id>http://localhost:4000/hacking-iframes-for-fun-and-proper-image-orientation</id>
+<published>2014-11-06T09:25:21+05:30</published>
+<updated>2014-11-06T09:25:21+05:30</updated>
+<author>
+<name>Sqor, Inc.</name>
+<uri>http://localhost:4000</uri>
+<email>feedback@sqor.com</email>
+</author>
+<content type="html">&lt;h5 id=&quot;why-do-things-the-right-way-when-you-can-do-them-the-wrong-way-and-put-them-in-an-iframe&quot;&gt;Why do things the right way, when you can do them the wrong way and put them in an iFrame?)***&lt;/h5&gt;
+
+&lt;p&gt;At &lt;a href=&quot;https://sqor.com/&quot;&gt;Sqor Sports&lt;/a&gt;, we handle a lot of user and athlete created content. One of the challenges faced when accepting this content is honoring EXIF orientation data. Ever since the iPhone 6 Plus came out, we started seeing photos from users that couldn’t reach the camera button when in landscape mode. They looked like this:&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;a href=&quot;https://d262ilb51hltx0.cloudfront.net/max/1200/0*XWHSHBaBFWRodlLs.&quot;&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/1200/0*XWHSHBaBFWRodlLs.&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Clearly, that’s bad.&lt;/p&gt;
+
+&lt;p&gt;We wondered if it would be possible to handle EXIF data on the front end and save us some server cycles.&lt;/p&gt;
+
+&lt;p&gt;Disclaimer: This is a hack, not a sustainable solution - it doesn’t even work on IE. We share it because we thought it was a pretty neat trick.&lt;/p&gt;
+
+&lt;p&gt;When dealing with user submitted content, we were surprised at how bad the state of detecting EXIF data was. Gmail ignored the problem for a long time, and other big sites [like DERPDERP] still don’t handle it. Only a few sites like Facebook do a perfect job handling EXIF rotation data. Solving the problem - especially just on the front end - seemed difficult.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Reference: www.daveperrett.com/articles/2012/07/28/exif-orientation-handling-is-a-ghetto/&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;the-solution-for-chrome--safari-desktop&quot;&gt;The Solution for Chrome &amp;amp; Safari (Desktop):&lt;/h5&gt;
+
+&lt;p&gt;Notice first that if an image is opened from the desktop with Chrome (Open With), it is displayed with the expected orientation:&lt;/p&gt;
+
+&lt;p&gt;The next step was to see if somehow putting the image in an iFrame inside &lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;a href=&quot;https://d262ilb51hltx0.cloudfront.net/max/1085/0*Mr5hW82d61aGOERI.&quot;&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/1085/0*Mr5hW82d61aGOERI.&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It worked! Success!  Well… not exactly.&lt;/p&gt;
+
+&lt;h6 id=&quot;setbacks&quot;&gt;Setbacks:&lt;/h6&gt;
+
+&lt;p&gt;When testing our solution, we quickly ran into a problem. Since the images were saved without file extensions, when we pointed the iframe at them, the browser would think they were file downloads and show a download prompt. That was unacceptable.&lt;/p&gt;
+
+&lt;p&gt;We solved this problem like we solved every problem - with more hacks:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Point the iFrame to an image that would work, i.e. pixel.jpg&lt;/li&gt;
+  &lt;li&gt;Use javascript to load the iFrame, look for the “img” tag inside the iFrame, and replace that “img” tag with the target image (that has no extension). &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;a href=&quot;https://d262ilb51hltx0.cloudfront.net/max/805/0*a7vQtdIgLn42mQHS.&quot;&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/805/0*a7vQtdIgLn42mQHS.&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Now we have success - and no download prompts.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;a href=&quot;https://d262ilb51hltx0.cloudfront.net/max/700/0*yZVrAVfMfWCV-_Jn.&quot;&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/700/0*yZVrAVfMfWCV-_Jn.&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Eventually, everything was switched and implemented on the server but it was fun while it lasted.&lt;/p&gt;
+
+&lt;h5 id=&quot;check-out-the-sqor-open-source-github-repohttpsgithubcomsqor&quot;&gt;Check out the Sqor Open Source Github &lt;a href=&quot;https://github.com/sqor/&quot;&gt;Repo&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/hacking-iframes-for-fun-and-proper-image-orientation/&quot;&gt;Hacking iFrames for Fun & Proper Image Orientation&lt;/a&gt; was originally published by Sqor, Inc. at &lt;a href=&quot;http://localhost:4000&quot;&gt;The Sqor Blog&lt;/a&gt; on November 06, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+
+
+<entry>
+<title type="html"><![CDATA[Our New Athletes]]></title>
+<link rel="alternate" type="text/html" href="http://localhost:4000/our-new-athletes/" />
+<id>http://localhost:4000/our-new-athletes</id>
+<published>2014-10-24T03:13:13+05:30</published>
+<updated>2014-10-24T03:13:13+05:30</updated>
+<author>
+<name>Sqor, Inc.</name>
+<uri>http://localhost:4000</uri>
+<email>feedback@sqor.com</email>
+</author>
+<content type="html">&lt;h2 id=&quot;follow-our-newest-athletes&quot;&gt;Follow Our Newest Athletes&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;We’ve been busy here at Sqor Sports recruiting your favorite athletes for the best fan experience. &lt;/p&gt;
+
+&lt;p&gt;Here are who we’ve added to our Team Sqor starting roster this month:&lt;/p&gt;
+
+&lt;h4 id=&quot;boxing&quot;&gt;Boxing&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://sqor.com/users/98893&quot;&gt;Yvonnne Reis&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/30778&quot;&gt;Andy Lee&lt;/a&gt;   &lt;/p&gt;
+
+&lt;h4 id=&quot;basketball&quot;&gt;Basketball&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://sqor.com/users/95588&quot;&gt;Sue Bird&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/95573&quot;&gt;Elena Delle Donne&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/5106&quot;&gt;JR Smith&lt;/a&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;volleyball&quot;&gt;Volleyball&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://sqor.com/users/95936&quot;&gt;Thaisa Daher de Menezes&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/95603&quot;&gt;April Ross&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/92365&quot;&gt;Sheilla Castro&lt;/a&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;mma&quot;&gt;MMA&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://sqor.com/users/92690&quot;&gt;Richie Edwards&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/91416&quot;&gt;Douglas Lima&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/91204&quot;&gt;Jason Sampson&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/87777&quot;&gt;JT Donaldson&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/27754&quot;&gt;Daniel Cormier&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/28606&quot;&gt;Benson Henderson&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/39196&quot;&gt;Carlos Condit&lt;/a&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;jiu-jitsu&quot;&gt;Jiu Jitsu&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://sqor.com/users/89411&quot;&gt;Pedro Fança&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/89113&quot;&gt;Felipe Pena Preguiça&lt;/a&gt;   &lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/89069&quot;&gt;Bruno Campos&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/96916&quot;&gt;Thiago Girundi&lt;/a&gt;   &lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/94236&quot;&gt;Rodrigo Aloise&lt;/a&gt;  &lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/89055&quot;&gt;Luca Paes&lt;/a&gt;  &lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/89051&quot;&gt;Servio Tulio Junqueira&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/88327&quot;&gt;Marcelo Gomide&lt;/a&gt;    &lt;/p&gt;
+
+&lt;h4 id=&quot;other-sports&quot;&gt;Other Sports&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://sqor.com/users/97574&quot;&gt;Brandon Palaniuk&lt;/a&gt; — &lt;em&gt;Fishing&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/87163&quot;&gt;Jake Dalton&lt;/a&gt; — &lt;em&gt;Gymnastics&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/89714&quot;&gt;Andrey Makarov&lt;/a&gt; — &lt;em&gt;Hockey&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/98598&quot;&gt;Sean Swarner&lt;/a&gt; — &lt;em&gt;Rock Climbing&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/79762&quot;&gt;Ian Madigan&lt;/a&gt; — &lt;em&gt;Rugby&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/89720&quot;&gt;E.J. Van Housselt&lt;/a&gt; — &lt;em&gt;Sailing&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/95592&quot;&gt;Natasha Dowie&lt;/a&gt; — &lt;em&gt;Soccer&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/92649&quot;&gt;DJ Many&lt;/a&gt; — &lt;em&gt;Snowboarding&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/89909&quot;&gt;Nicolas Nilo&lt;/a&gt; — &lt;em&gt;Swimming&lt;/em&gt; &lt;br /&gt;
+&lt;a href=&quot;https://sqor.com/users/91162&quot;&gt;Marcelo Melo&lt;/a&gt;  — &lt;em&gt;Tennis&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For more of our athletes, head to &lt;a href=&quot;https://sqor.com/teamsqor&quot;&gt;Team Sqor&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/our-new-athletes/&quot;&gt;Our New Athletes&lt;/a&gt; was originally published by Sqor, Inc. at &lt;a href=&quot;http://localhost:4000&quot;&gt;The Sqor Blog&lt;/a&gt; on October 24, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+
+
+<entry>
+<title type="html"><![CDATA[Sqor Launches Crowdfunding]]></title>
+<link rel="alternate" type="text/html" href="http://localhost:4000/Launches/sqor-launches-crowdfunding/" />
+<id>http://localhost:4000/Launches/sqor-launches-crowdfunding</id>
+<published>2014-10-18T00:49:51+05:30</published>
+<updated>2014-10-18T00:49:51+05:30</updated>
+<author>
+<name>Sqor, Inc.</name>
+<uri>http://localhost:4000</uri>
+<email>feedback@sqor.com</email>
+</author>
+<content type="html">&lt;p&gt;Sqor, Inc. (www.sqor.com), the editorial and social platform focused exclusively on sports, announces the launch of a new crowdfunding feature that allows athletes to easily raise money via the site.  Crowdfunding on Sqor may be used by athletes to finance their training and upcoming competitions, or to bring additional exposure and funds to an athlete’s philanthropic endeavors.  Whether an athlete is a young olympic hopeful or a well-known professional all-star, Crowdfunding on Sqor provides a turn-key, social tool for fundraising, that enables an athlete’s fans to play apart in the athlete’s success.  &lt;/p&gt;
+
+&lt;p&gt;Crowdfunding on Sqor is uniquely positioned and differentiated from other crowdfunding sites that exist because Sqor’s platform is hyper-focused on creating software tools and economic opportunities for athletes.  Crowdfunding is just one of the numerous features &amp;amp; economic opportunities Sqor, Inc. provides to athletes of all sports. “Our Crowdfunding product is another tool available to athletes that register with Sqor” said CEO Brian Wilhite, “our focus at Sqor, Inc. is to help the athlete in every aspect of their life that we possibly can, and we believe Crowdfunding on our platform is another step towards achieving that goal.” &lt;/p&gt;
+
+&lt;p&gt;TeamSqor athletes that have begun campaigns for various charities and causes they feel strongly about include: &lt;a href=&quot;https://sqor.com/athlete/39229/Brett-Favre&quot;&gt;Brett Favre&lt;/a&gt; through his foundation, Favre4Hope, &lt;a href=&quot;https://sqor.com/athlete/4314/Calais-Campbell&quot;&gt;Calais Cambell&lt;/a&gt; through his CRC Foundation, and Darrin Walls for the Bright Pink Foundation to support Breast Cancer Awareness month.&lt;/p&gt;
+
+&lt;p&gt;Retired NFL legend Brett Favre vocalized his support of Crowdfunding on Sqor by announcing that he will be raising funds for his foundation Favre4Hope which helps breast cancer survivors and children with disabilities. “This is a great opportunity for athletes to take their passion projects to the next level and raise money for good causes. The team at Sqor, Inc. got me set up quickly and easily, and I’m looking forward to a successful campaign raising money for the Favre4Hope foundation.”  Athletes that are interested in taking advantage of CrowdFunding on Sqor should contact the company’s Athlete team &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#097;&amp;#116;&amp;#104;&amp;#108;&amp;#101;&amp;#116;&amp;#101;&amp;#115;&amp;#064;&amp;#115;&amp;#113;&amp;#111;&amp;#114;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#097;&amp;#116;&amp;#104;&amp;#108;&amp;#101;&amp;#116;&amp;#101;&amp;#115;&amp;#064;&amp;#115;&amp;#113;&amp;#111;&amp;#114;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt; to get their campaign set up. For more information on Sqor’s new Crowdfunding feature, please visit the [website] (https://sqor.com/).&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+    &amp;lt;a href=&quot;/sqorblog/images/favre_funding_mock.jpg&quot;&quot;&amp;gt;&lt;img src=&quot;/sqorblog/images/favre_funding_mock.jpg&quot; /&gt;
+    &lt;figcaption&gt;Sqor Brett Favre crowdfunding page for Favre4Hope charity.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/Launches/sqor-launches-crowdfunding/&quot;&gt;Sqor Launches Crowdfunding&lt;/a&gt; was originally published by Sqor, Inc. at &lt;a href=&quot;http://localhost:4000&quot;&gt;The Sqor Blog&lt;/a&gt; on October 18, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+
+
+<entry>
+<title type="html"><![CDATA[Sqor Partners With TOK.TV]]></title>
+<link rel="alternate" type="text/html" href="http://localhost:4000/Partnerships/sqor-partners-with-tok-tv/" />
+<id>http://localhost:4000/Partnerships/sqor-partners-with-tok-tv</id>
+<published>2014-10-10T02:28:28+05:30</published>
+<updated>2014-10-10T02:28:28+05:30</updated>
+<author>
+<name>Sqor, Inc.</name>
+<uri>http://localhost:4000</uri>
+<email>feedback@sqor.com</email>
+</author>
+<content type="html">&lt;p&gt;We are very excited to announce a partnership with &lt;a href=&quot;http://www.tok.tv/&quot;&gt;TOK.tv&lt;/a&gt;, a leader in voice-enabled Social TV. &lt;/p&gt;
+
+&lt;p&gt;Tok.tv released the “Tok Social Button” this week. This SDK enables all sport apps social, while monetizing through TV-synced advertising. It works as a Social TV layer for all sport apps, enabling any developer to easily integrate the TOK.tv core features in its app.&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;img src=&quot;http://www.tok.tv/wp-content/uploads/2014/10/Bzfe4C9CIAAL4Ha.jpg&quot; /&gt;
+	&lt;figcaption&gt;TOK.tv.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;“The TOK Social Button has a key function: transform any sport app into a Social hub, bringing the emotion of watching sport together to fans of every sport”, said TOK.tv Chief Executive Officer, Fabrizio Capobianco in a press release&lt;/p&gt;
+
+&lt;p&gt;Users click on on the TOK Social Button inside an app to talk to a friend, chat, make fun sounds and take a “social selfie” while watching a game. The SDK comes with ACR technology which recognizes advertising on TV and delivers synced ads on mobile devices. This technology creates new and significant revenue opportunities for marketers. &lt;/p&gt;
+
+&lt;p&gt;“Sqor, Inc is excited to be one of the select TOK.tv SDK partners,” said Brian Wilhite, Founder and CEO of Sqor, Inc. “As innovators in sports technology we are looking forward to integrating TOK.tv SDK across our editorial and social content platform that is focused exclusive on sports.  Our sports specific social platform delivers thousands of engagements between professional athletes and fans daily, and the TOK Social Button will add fuel to our engagement fire. This integration will include our web, and mobile assets.”&lt;/p&gt;
+
+&lt;p&gt;Starting today, the TOK Social Button will be available to a group of selected partners. The list includes &lt;a href=&quot;http://www.juventus.com/juve/en/welcome&quot;&gt;Juventus FC&lt;/a&gt;, &lt;a href=&quot;http://palermocalcio.it/en/home/&quot;&gt;Palermo Calcio&lt;/a&gt;, &lt;a href=&quot;http://www.deltatre.com/&quot;&gt;Deltatre&lt;/a&gt;, &lt;a href=&quot;http://www.microsoft.com&quot;&gt;Microsoft&lt;/a&gt;, &lt;a href=&quot;http://www.xsfn.com/&quot;&gt;XSFN&lt;/a&gt;, &lt;a href=&quot;https://sqor.com/&quot;&gt;Sqor&lt;/a&gt;, &lt;a href=&quot;https://mondogoal.com/&quot;&gt;Mondogoal&lt;/a&gt;, &lt;a href=&quot;http://www.stylum.net/&quot;&gt;Stylum&lt;/a&gt; and &lt;a href=&quot;http://www.myagonism.com/&quot;&gt;MYagonism&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/Partnerships/sqor-partners-with-tok-tv/&quot;&gt;Sqor Partners With TOK.TV&lt;/a&gt; was originally published by Sqor, Inc. at &lt;a href=&quot;http://localhost:4000&quot;&gt;The Sqor Blog&lt;/a&gt; on October 10, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+
+
+<entry>
+<title type="html"><![CDATA[Sqor Launches on Android and Other Releases]]></title>
+<link rel="alternate" type="text/html" href="http://localhost:4000/app/features/sqor-launches-on-android-and-other-releases/" />
+<id>http://localhost:4000/app/features/sqor-launches-on-android-and-other-releases</id>
+<published>2014-08-30T02:03:36+05:30</published>
+<updated>2014-08-30T02:03:36+05:30</updated>
+<author>
+<name>Sqor, Inc.</name>
+<uri>http://localhost:4000</uri>
+<email>feedback@sqor.com</email>
+</author>
+<content type="html">&lt;h1 id=&quot;sqor-launches-android-appreleases-nflncaa-football-showdowns&quot;&gt;Sqor Launches Android App,Releases NFL/NCAA Football Showdowns&lt;/h1&gt;
+
+&lt;p&gt;Sqor has much to celebrate this week: Launching their Android app, hitting 1 million pageviews year-to-date, and releasing their interactive football “Showdowns.”&lt;/p&gt;
+
+&lt;h4 id=&quot;android&quot;&gt;Android&lt;/h4&gt;
+&lt;p&gt;Now sports fans can connect and have the ultimate insider access to their favorite athletes on the web, iOS or Android. Sqor’s release on GooglePlay™ is the next step to reach new audiences on additional devices. The Android app features editorial and social content posted in a timeline fashion by athletes and users, with notifications, comments, favorites, search capabilities, user and athlete profiles, images, video, and the ability to share via social media sites such as Facebook, and Twitter. Download the new Android app on &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.sqor.droid&quot;&gt;GooglePlay™&lt;/a&gt;  or get the existing Sqor app in the &lt;a href=&quot;https://itunes.apple.com/us/app/sqor/id700913088?mt=8&quot;&gt;iTunes App Store&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;“We are very excited to be launching via GooglePlay™ and bringing Sqor content to Android devices,” said &lt;a href=&quot;https://sqor.com/users/35304/Brian-Wilhite&quot;&gt;Brian Wilhite&lt;/a&gt;, CEO and Founder at Sqor.  “As one of the leading application ecosystems, we know the importance of being compatible to Android products. We highly appreciate the support that GooglePlay™ offers to app producers. We believe that Android users who are interested in sports, interactive football showdowns, athlete contests and giveaways, and real-time access to the athletes, will love what we’ve created,” Wilhite said. &lt;/p&gt;
+
+&lt;p&gt;Given this massive opportunity in sports, Sqor believes the biggest untapped opportunity in sports is the athlete – specifically the 99% that have powerful personal brands but no current off-the-field income. Sqor partners with over 1,500 athletes to provide fans with greater access to the players. This is especially true with the younger demographic. &lt;/p&gt;
+
+&lt;h4 id=&quot;showdowns&quot;&gt;Showdowns&lt;/h4&gt;
+&lt;p&gt;To further cater to athletes and fans alike, Sqor is also rolling out “Showdowns”. 
+Showdowns is a feature within Sqor online (coming to mobile soon), that allows users to pick teams and predict who will win, challenge their friends, and receive virtual badges/trophies if they’re right. Showdowns are intended to encourage interaction between fans and participating athletes as they go head-to-head selecting the winning teams and top performing athletes of games throughout the season. NFL Legend and Sqor Board Member &lt;a href=&quot;https://sqor.com/athlete/39229/Brett-Favre&quot;&gt;Brett Favre&lt;/a&gt; is especially excited about this new feature. “It was great getting to interact with fans who were playing against me with Sqor’s Showdowns last year,” Favre said. “With all the new gaming features Sqor has added, this year is going to be even better.” &lt;/p&gt;
+
+&lt;p&gt;Starting in September, Sqor users who win at least 10 Showdowns will be entered to win a $500 gift card to &lt;a href=&quot;http://www.fanatics.com/&quot;&gt;Fanatics&lt;/a&gt;. Additionally, some of Sqor’s NFL athletes, including Brett Favre, will be giving away signed memorabilia every week to Showdown users. Sqor will be adding other sports to the Showdowns such as MMA, NBA, MLB, and others in the following months.&lt;/p&gt;
+
+&lt;h4 id=&quot;m-pageviews-ytd&quot;&gt;1M Pageviews YTD&lt;/h4&gt;
+&lt;p&gt;Last but not least to celebrate: Sqor just hit 1 million YTD pageviews this past weekend. and is tracking for exponential growth for the foreseeable future. &lt;/p&gt;
+
+&lt;p&gt;“Hitting this metric is a huge milestone for us at Sqor,” said &lt;a href=&quot;https://sqor.com/users/37857&quot;&gt;Noah Gift&lt;/a&gt;, CTO at Sqor.”We’ve made it our mission to offer new features to enhance the sports experience for our users and look forward to fan enthusiasm about the elements to come, “ Gift said. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot; class=&quot;btn&quot;&gt;Download on GooglePlay &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/app/features/sqor-launches-on-android-and-other-releases/&quot;&gt;Sqor Launches on Android and Other Releases&lt;/a&gt; was originally published by Sqor, Inc. at &lt;a href=&quot;http://localhost:4000&quot;&gt;The Sqor Blog&lt;/a&gt; on August 30, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+
+
+<entry>
+<title type="html"><![CDATA[Sqor Engineering]]></title>
+<link rel="alternate" type="text/html" href="http://localhost:4000/Sqor/Labs/sqor-engineering/" />
+<id>http://localhost:4000/Sqor/Labs/sqor-engineering</id>
+<published>2014-08-27T04:43:02+05:30</published>
+<updated>2014-08-27T04:43:02+05:30</updated>
+<author>
+<name>Sqor, Inc.</name>
+<uri>http://localhost:4000</uri>
+<email>feedback@sqor.com</email>
+</author>
+<content type="html">&lt;h2 id=&quot;sqor-engineering&quot;&gt;Sqor Engineering&lt;/h2&gt;
+
+&lt;p&gt;There are not a lot of rules here. Our culture is very simple to explain. We hire world class talent and completely trust them to do amazing work. We will use anything from functional languages to MS SQL Server. We just love building cool stuff.&lt;/p&gt;
+
+&lt;h2 id=&quot;should-you-work-here&quot;&gt;Should you work here?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Flexibility&lt;/strong&gt;
+While we would love for everyone to come work at our San Francisco office, we still have some remote team members. Most of us work from home at least once a week when we need to power through some code.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sharing and Learning&lt;/strong&gt;
+Working with people who know things you don’t is awesome. We are often learning from each other and people here enjoy sharing what they know.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open Source&lt;/strong&gt;
+If we can open source something, we will. It is great for everyone and we benefit a ton from open source projects that we feel we should contribute back. Our github: @sqor.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Creativity&lt;/strong&gt; 
+If you like hacking on stuff on your free time, we have a lot of people like that here. We have things like Demo Mondays where the Engineering team gets to show cool stuff to the rest of the company every week.&lt;/p&gt;
+
+&lt;h2 id=&quot;we-believe-in&quot;&gt;We Believe In:&lt;/h2&gt;
+&lt;p&gt;-Continuous Deployment&lt;/p&gt;
+
+&lt;p&gt;-Functional Programming&lt;/p&gt;
+
+&lt;p&gt;-Static Analysis&lt;/p&gt;
+
+&lt;p&gt;-Rapid Prototyping&lt;/p&gt;
+
+&lt;p&gt;-Data Science and Math&lt;/p&gt;
+
+&lt;h4 id=&quot;do-you-reach-out-jobssqorcom&quot;&gt;&lt;em&gt;Do you? Reach out: jobs@sqor.com&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/Sqor/Labs/sqor-engineering/&quot;&gt;Sqor Engineering&lt;/a&gt; was originally published by Sqor, Inc. at &lt;a href=&quot;http://localhost:4000&quot;&gt;The Sqor Blog&lt;/a&gt; on August 27, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+
+
+<entry>
+<title type="html"><![CDATA[CJ Watson Hosts First Annual Las Vegas Sock Drive for the Homeless]]></title>
+<link rel="alternate" type="text/html" href="http://localhost:4000/Sqor/Athlete/Fundraising/cj-watson-and-mitscoots/" />
+<id>http://localhost:4000/Sqor/Athlete/Fundraising/cj-watson-and-mitscoots</id>
+<published>2014-08-23T03:03:18+05:30</published>
+<updated>2014-08-23T03:03:18+05:30</updated>
+<author>
+<name>Sqor, Inc.</name>
+<uri>http://localhost:4000</uri>
+<email>feedback@sqor.com</email>
+</author>
+<content type="html">&lt;h3 id=&quot;sqors-nba-star-cj-watson-and-mitscoots-socks-partner-for-sock-donation-and-drive-for-the-homeless&quot;&gt;Sqor’s NBA STAR CJ WATSON AND MITSCOOTS SOCKS PARTNER FOR SOCK DONATION AND DRIVE FOR THE HOMELESS&lt;/h3&gt;
+
+&lt;p&gt;Sqor’s very own &lt;a href=&quot;https://sqor.com/athlete/28726/&quot;&gt;C.J.-Watson&lt;/a&gt; from the NBA Indiana Pacers has teamed up with Mitscoots Socks to host their first annual sock drive and giveaway to the homeless in Las Vegas, NV. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The event will take place on August 23, 2014 at The Las Vegas Rescue Mission at 3PM PST. If you’re in the area, definitely check it out!&lt;/strong&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;about-cj-watson-and-the-quietstorm-foundation&quot;&gt;About CJ Watson and The QuietStorm Foundation&lt;/h4&gt;
+
+&lt;p&gt;In 2009 C.J. and his family developed the QuietStorm Foundation, with the intent of providing at-risk youth with services in the realms of education, sports, and leadership development. Since its inception, The Quietstorm Foundation has served over 10,000 families in the cities of Las Vegas, Nevada, Brooklyn, N.Y., Chicago, IL, Oakland, CA, and Indianapolis, IN. C.J. is also a sponsor of the Junior SEEDS Program in Senegal, Athlete-Supporter to UNICEF, and Ambassador to the American Diabetes Association-Indiana. For more information on donating please contact &lt;a href=&quot;Cathy@quietstormfoundation.com&quot;&gt;Cathy&lt;/a&gt;
+ at the QuietStorm Foundation.&lt;/p&gt;
+
+&lt;h4 id=&quot;about-mitscoots&quot;&gt;About Mitscoots&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://mitscoots.com/&quot;&gt;Mitscoots&lt;/a&gt; is a sock brand with a purpose. For every pair of socks sold or retailed Mitscoots gives a pair to homeless in need via their partnerships. Mitscoots also helps to employ homeless men and women through its: Get, Give and Employ mission.  The event will host over 1500 homeless individuals and donate over 2000 pairs of socks. &lt;/p&gt;
+
+&lt;h4 id=&quot;about-las-vegas-rescue-mission&quot;&gt;About Las Vegas Rescue Mission&lt;/h4&gt;
+&lt;p&gt;The Mission provides emergency overnight shelter facilities for 150+ singles (men and women) along with 8 family units. The Vegas mission provides on average nearly 30,000 meals monthly to any who are hungry and giveaway programs provide clean, high quality clothing and basic household necessities, at no cost, to individuals or families in need. &lt;/p&gt;
+
+&lt;h6 id=&quot;keep-up-to-date-with-cj-watsonhttpssqorcomathlete28726cj-watson-and-the-indiana-pacershttpssqorcomteam32049undefinedindiana-pacers-on-sqor&quot;&gt;Keep up to date with &lt;a href=&quot;https://sqor.com/athlete/28726/C.J.-Watson&quot;&gt;C.J. Watson&lt;/a&gt; and the &lt;a href=&quot;https://sqor.com/team/32049/undefined/Indiana-Pacers&quot;&gt;Indiana Pacers&lt;/a&gt; on Sqor.&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/Sqor/Athlete/Fundraising/cj-watson-and-mitscoots/&quot;&gt;CJ Watson Hosts First Annual Las Vegas Sock Drive for the Homeless&lt;/a&gt; was originally published by Sqor, Inc. at &lt;a href=&quot;http://localhost:4000&quot;&gt;The Sqor Blog&lt;/a&gt; on August 23, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+
+
+<entry>
+<title type="html"><![CDATA[Sqor at the Sports Analytics Summit]]></title>
+<link rel="alternate" type="text/html" href="http://localhost:4000/Sqor/Sports Data/Speaking/sports-analytics-summit/" />
+<id>http://localhost:4000/Sqor/Sports Data/Speaking/sports-analytics-summit</id>
+<published>2014-08-22T04:39:00+05:30</published>
+<updated>2014-08-22T04:39:00+05:30</updated>
+<author>
+<name>Sqor, Inc.</name>
+<uri>http://localhost:4000</uri>
+<email>feedback@sqor.com</email>
+</author>
+<content type="html">&lt;h1 id=&quot;winning-in-sports-through-performance-analysis--data-analytics&quot;&gt;Winning in Sports Through Performance Analysis &amp;amp; Data Analytics&lt;/h1&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+    &lt;a href=&quot;/images/Sports-Analytics-SF.png&quot;&gt;&lt;img src=&quot;/images/Sports-Analytics-SF.png&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;sqor-will-be-at-the-sports-analytics-innovation-summit-in-san-francisco-september-10--11&quot;&gt;Sqor will be at the Sports Analytics Innovation Summit in San Francisco, September 10 &amp;amp; 11.&lt;/h2&gt;
+
+&lt;p&gt;The &lt;strong&gt;&lt;a href=&quot;http://bit.ly/1e0y46M&quot;&gt;Sports Analytics Innovation Summit&lt;/a&gt;&lt;/strong&gt; will gather over 150+ of the world’s most dynamic and innovative leaders in sports performance &amp;amp; business analytics for 2 days of keynote sessions, breakout sessions and unparalleled networking opportunities.&lt;/p&gt;
+
+&lt;h3 id=&quot;confirmed-speakers-include&quot;&gt;Confirmed speakers include:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lead Sports Scientist, Chelsea FC&lt;/li&gt;
+  &lt;li&gt;Group Vice President, Ticket Sales &amp;amp; Services, Golden State Warriors&lt;/li&gt;
+  &lt;li&gt;Director, Performance Science, USA Field Hockey&lt;/li&gt;
+  &lt;li&gt;Director, Medical Services, Los Angeles Dodgers&lt;/li&gt;
+  &lt;li&gt;Managing Vice President, Ticket Sales &amp;amp; Services, San Francisco Giants&lt;/li&gt;
+  &lt;li&gt;Senior Sports Technologist, US Olympic Committee &lt;/li&gt;
+  &lt;li&gt;Manager, Analytics, Phoenix Suns&lt;/li&gt;
+  &lt;li&gt;Director, Football Administration, San Francisco 49ers &lt;/li&gt;
+  &lt;li&gt;Assistant Coach &amp;amp; Player Development, Atlanta Hawks&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;including-sqors-cto-noah-gifthttpssqorcomusers37857-who-will-be-speaking-about-how-using-r-to-do-advanced-sports-analytics&quot;&gt;Including Sqor’s CTO &lt;a href=&quot;https://sqor.com/users/37857&quot;&gt;Noah Gift&lt;/a&gt;, who will be speaking about how using R to do advanced sports analytics&lt;/h4&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are offering an exclusive 20% off passes to Sqor subscribers. Use ‘sports20’ when registering.&lt;/p&gt;
+
+&lt;p&gt;The Summit is the perfect opportunity to share insight and best practices with experts who are pushing the boundaries of both on-field and off-field performance with analytics.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;There are a limited amount of passes available, make sure to secure your pass &lt;a href=&quot;http://bit.ly/1pZkOr2&quot;&gt;today&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/Sqor/Sports Data/Speaking/sports-analytics-summit/&quot;&gt;Sqor at the Sports Analytics Summit&lt;/a&gt; was originally published by Sqor, Inc. at &lt;a href=&quot;http://localhost:4000&quot;&gt;The Sqor Blog&lt;/a&gt; on August 22, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+
+
+<entry>
+<title type="html"><![CDATA[Hello World!]]></title>
+<link rel="alternate" type="text/html" href="http://localhost:4000/About/Sports/Fans/hello-world/" />
+<id>http://localhost:4000/About/Sports/Fans/hello-world</id>
+<published>2014-08-15T02:47:54+05:30</published>
+<updated>2014-08-15T02:47:54+05:30</updated>
+<author>
+<name>Sqor, Inc.</name>
+<uri>http://localhost:4000</uri>
+<email>feedback@sqor.com</email>
+</author>
+<content type="html">&lt;p&gt;Sqor is the next best thing to hanging in a locker room with all your favorite athletes. It gives you insider’s access to the athletes who matter to you. They live on Sqor. And they share exclusive, behind-the-scenes videos and photos, fan Q&amp;amp;A’s, workout tips, and much more. It’s a must for any sports fan.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-sqor&quot;&gt;WHY SQOR?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Get inside their head&lt;/strong&gt; Find out what Sqor Athletes really think about their performance, competitors, and more. See first-hand the hard work and drive it takes to be a professional athlete with live posts, workout videos, and technique tips.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life happens off the field&lt;/strong&gt; Experience the personal side of athletes: how they train, spend their free time, and get involved in their communities. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ask and you shall receive&lt;/strong&gt; Comment on athletes’ posts or ask them questions. Athletes will post comments or short videos with their answers. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Games and giveaways&lt;/strong&gt; Participate in games or enter giveaways to win signed gear and other cool stuff.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A community of fans&lt;/strong&gt; Hear other Sqor Fans weigh in on today’s hottest sports topics. Share your insights, too!&lt;/p&gt;
+
+&lt;h3 id=&quot;getting-started&quot;&gt;GETTING STARTED&lt;/h3&gt;
+
+&lt;p&gt;-Download Sqor for &lt;a href=&quot;https://itunes.apple.com/us/app/sqor/id700913088?mt=8&quot;&gt;iOS&lt;/a&gt; or &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.sqor.droid&quot;&gt;Android&lt;/a&gt; devices or sign up &lt;a href=&quot;https://sqor.com/&quot;&gt;online&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;-Set up your profile. &lt;/p&gt;
+
+&lt;p&gt;-Choose which athletes, teams, sports, and leagues you want to hear about.&lt;/p&gt;
+
+&lt;p&gt;-Get involved. Follow other Sqor fans, post comments and photos, and much more.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/About/Sports/Fans/hello-world/&quot;&gt;Hello World!&lt;/a&gt; was originally published by Sqor, Inc. at &lt;a href=&quot;http://localhost:4000&quot;&gt;The Sqor Blog&lt;/a&gt; on August 15, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+
+
+<entry>
+<title type="html"><![CDATA[Sqor Athlete Mike Chabala, Shares Awkward First Kiss]]></title>
+<link rel="alternate" type="text/html" href="http://localhost:4000/Mike-Chabala-on-Zoosk/" />
+<id>http://localhost:4000/Mike-Chabala-on-Zoosk</id>
+<published>2014-08-11T00:00:00+05:30</published>
+<updated>2014-08-11T00:00:00+05:30</updated>
+<author>
+<name>Sqor, Inc.</name>
+<uri>http://localhost:4000</uri>
+<email>feedback@sqor.com</email>
+</author>
+<content type="html">&lt;p&gt;Sqor’s very own Michael Chabala – professional soccer player interviewed on #firstkiss&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;https://dq1eylutsoz4u.cloudfront.net/2014/08/My_First_Kiss_v5.jpg&quot;&gt;&lt;img src=&quot;https://dq1eylutsoz4u.cloudfront.net/2014/08/My_First_Kiss_v5.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;a&gt;Mike Chabala On Zoosk #FistKiss&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.zoosk.com/&quot;&gt;Zoosk Dating&lt;/a&gt; reached out to us at &lt;a href=&quot;http://www.Sqor.com&quot;&gt;Sqor&lt;/a&gt; to see if one of our single athletes would be interested in speaking about their love life.  Zoosk knows how Sqor has exclusive content from professional, amateur, and retired athletes, so we were thrilled to get involved. Check out the full article &lt;a href=&quot;https://about.zoosk.com/en/blog/dating-advice/professional-soccer-player-mike-chabala-shares-awkward-first-kiss/&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/Mike-Chabala-on-Zoosk/&quot;&gt;Sqor Athlete Mike Chabala, Shares Awkward First Kiss&lt;/a&gt; was originally published by Sqor, Inc. at &lt;a href=&quot;http://localhost:4000&quot;&gt;The Sqor Blog&lt;/a&gt; on August 11, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>
+
+      <hr />
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          
+
+
+
+	<img src="http://localhost:4000/images/sqor.png" class="bio-photo" alt="Sqor, Inc. bio photo"></a>
+
+<h3>Sqor, Inc.</h3>
+<p>Sqor is a groundbreaking social gaming and publishing platform that delivers content from more professional and amateur athletes.</p>
+<a href="mailto:feedback@sqor.com" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>
+<a href="http://twitter.com/sqor" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>
+<a href="http://facebook.com/sqor" class="author-social" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a>
+
+
+
+
+
+
+
+
+<a href="http://www.pinterest.com/sqor" class="author-social" target="_blank"><i class="fa fa-pinterest"></i> Pinterest</a>
+
+
+    </div><!-- /.article-wrap -->
+  
+  </article>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53fcd8eb4722b351"></script>
+
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+  <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="http://localhost:4000/posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+    </ul>
+    <hr />
+  </div><!-- /.related-articles -->
+  <footer>
+    <div class="google-ads">
+  <!-- 320 x 50 ad -->
+  <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:320px;height:50px"
+       data-ad-client=""
+       data-ad-slot=""></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div><!-- /.google-ads -->
+
+<span>&copy; 2015 Sqor, Inc.. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://localhost:4000/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-38230514-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+	        
+
+</body>
+</html>

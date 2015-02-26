@@ -1,0 +1,287 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Hacking iFrames for Fun & Proper Image Orientation &#8211; The Sqor Blog</title>
+
+<meta name="keywords" content="">
+
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Hacking iFrames for Fun & Proper Image Orientation">
+
+<meta name="twitter:site" content="@sqor">
+<meta name="twitter:creator" content="@sqor">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://localhost:4000/images/default-thumb.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Hacking iFrames for Fun & Proper Image Orientation">
+
+<meta property="og:url" content="http://localhost:4000/hacking-iframes-for-fun-and-proper-image-orientation/">
+<meta property="og:site_name" content="The Sqor Blog">
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/hacking-iframes-for-fun-and-proper-image-orientation/">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="The Sqor Blog Feed">
+
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://localhost:4000/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://localhost:4000/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://localhost:4000/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://localhost:4000">The Sqor Blog</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+					    
+					        
+					    
+					    <li><a href="http://localhost:4000/about/" >About</a></li>
+					  
+					    
+					        
+					    
+					    <li><a href="http://localhost:4000/posts/" >Posts</a></li>
+					  
+					    
+					        
+					    
+					    <li><a href="http://localhost:4000/labs/" >Labs</a></li>
+					  
+					    
+					        
+					        
+					    <li><a href="http://sqor.com" target="_blank">Sqor</a></li>
+					  
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+
+
+
+	<img src="http://localhost:4000/images/sqor.png" class="bio-photo" alt="Sqor, Inc. bio photo"></a>
+
+<h3>Sqor, Inc.</h3>
+<p>Sqor is a groundbreaking social gaming and publishing platform that delivers content from more professional and amateur athletes.</p>
+<a href="mailto:feedback@sqor.com" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>
+<a href="http://twitter.com/sqor" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>
+<a href="http://facebook.com/sqor" class="author-social" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a>
+
+
+
+
+
+
+
+
+<a href="http://www.pinterest.com/sqor" class="author-social" target="_blank"><i class="fa fa-pinterest"></i> Pinterest</a>
+
+
+  </div>
+  <article>
+    <div class="headline-wrap">
+      
+        <h1><a href="http://localhost:4000/hacking-iframes-for-fun-and-proper-image-orientation/" rel="bookmark" title="Hacking iFrames for Fun & Proper Image Orientation">Hacking iFrames for Fun & Proper Image Orientation</a></h1>
+      
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <h5 id="why-do-things-the-right-way-when-you-can-do-them-the-wrong-way-and-put-them-in-an-iframe">Why do things the right way, when you can do them the wrong way and put them in an iFrame?)***</h5>
+
+<p>At <a href="https://sqor.com/">Sqor Sports</a>, we handle a lot of user and athlete created content. One of the challenges faced when accepting this content is honoring EXIF orientation data. Ever since the iPhone 6 Plus came out, we started seeing photos from users that couldn’t reach the camera button when in landscape mode. They looked like this:</p>
+
+<figure class="half">
+	<a href="https://d262ilb51hltx0.cloudfront.net/max/1200/0*XWHSHBaBFWRodlLs."><img src="https://d262ilb51hltx0.cloudfront.net/max/1200/0*XWHSHBaBFWRodlLs." /></a>
+</figure>
+
+<p>Clearly, that’s bad.</p>
+
+<p>We wondered if it would be possible to handle EXIF data on the front end and save us some server cycles.</p>
+
+<p>Disclaimer: This is a hack, not a sustainable solution - it doesn’t even work on IE. We share it because we thought it was a pretty neat trick.</p>
+
+<p>When dealing with user submitted content, we were surprised at how bad the state of detecting EXIF data was. Gmail ignored the problem for a long time, and other big sites [like DERPDERP] still don’t handle it. Only a few sites like Facebook do a perfect job handling EXIF rotation data. Solving the problem - especially just on the front end - seemed difficult.</p>
+
+<p><em>Reference: www.daveperrett.com/articles/2012/07/28/exif-orientation-handling-is-a-ghetto/</em></p>
+
+<h5 id="the-solution-for-chrome--safari-desktop">The Solution for Chrome &amp; Safari (Desktop):</h5>
+
+<p>Notice first that if an image is opened from the desktop with Chrome (Open With), it is displayed with the expected orientation:</p>
+
+<p>The next step was to see if somehow putting the image in an iFrame inside </p>
+
+<figure class="half">
+	<a href="https://d262ilb51hltx0.cloudfront.net/max/1085/0*Mr5hW82d61aGOERI."><img src="https://d262ilb51hltx0.cloudfront.net/max/1085/0*Mr5hW82d61aGOERI." /></a>
+</figure>
+
+<p>It worked! Success!  Well… not exactly.</p>
+
+<h6 id="setbacks">Setbacks:</h6>
+
+<p>When testing our solution, we quickly ran into a problem. Since the images were saved without file extensions, when we pointed the iframe at them, the browser would think they were file downloads and show a download prompt. That was unacceptable.</p>
+
+<p>We solved this problem like we solved every problem - with more hacks:</p>
+
+<ol>
+  <li>Point the iFrame to an image that would work, i.e. pixel.jpg</li>
+  <li>Use javascript to load the iFrame, look for the “img” tag inside the iFrame, and replace that “img” tag with the target image (that has no extension). </li>
+</ol>
+
+<figure class="half">
+	<a href="https://d262ilb51hltx0.cloudfront.net/max/805/0*a7vQtdIgLn42mQHS."><img src="https://d262ilb51hltx0.cloudfront.net/max/805/0*a7vQtdIgLn42mQHS." /></a>
+</figure>
+
+<p>Now we have success - and no download prompts.</p>
+
+<figure class="half">
+	<a href="https://d262ilb51hltx0.cloudfront.net/max/700/0*yZVrAVfMfWCV-_Jn."><img src="https://d262ilb51hltx0.cloudfront.net/max/700/0*yZVrAVfMfWCV-_Jn." /></a>
+</figure>
+
+<p>Eventually, everything was switched and implemented on the server but it was fun while it lasted.</p>
+
+<h5 id="check-out-the-sqor-open-source-github-repohttpsgithubcomsqor">Check out the Sqor Open Source Github <a href="https://github.com/sqor/">Repo</a></h5>
+
+      <hr />
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          
+
+
+
+	<img src="http://localhost:4000/images/sqor.png" class="bio-photo" alt="Sqor, Inc. bio photo"></a>
+
+<h3>Sqor, Inc.</h3>
+<p>Sqor is a groundbreaking social gaming and publishing platform that delivers content from more professional and amateur athletes.</p>
+<a href="mailto:feedback@sqor.com" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>
+<a href="http://twitter.com/sqor" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>
+<a href="http://facebook.com/sqor" class="author-social" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a>
+
+
+
+
+
+
+
+
+<a href="http://www.pinterest.com/sqor" class="author-social" target="_blank"><i class="fa fa-pinterest"></i> Pinterest</a>
+
+
+    </div><!-- /.article-wrap -->
+  
+  </article>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53fcd8eb4722b351"></script>
+
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+  <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="http://localhost:4000/posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+      <li><a href="http://localhost:4000/sqor-sports-case-study/" title="Sqor Sports Case Study">Sqor Sports Case Study</a></li>
+    
+      <li><a href="http://localhost:4000/our-new-athletes/" title="Our New Athletes">Our New Athletes</a></li>
+    
+      <li><a href="http://localhost:4000/launches/sqor-launches-crowdfunding/" title="Sqor Launches Crowdfunding">Sqor Launches Crowdfunding</a></li>
+    
+    </ul>
+    <hr />
+  </div><!-- /.related-articles -->
+  <footer>
+    <div class="google-ads">
+  <!-- 320 x 50 ad -->
+  <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:320px;height:50px"
+       data-ad-client=""
+       data-ad-slot=""></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div><!-- /.google-ads -->
+
+<span>&copy; 2015 Sqor, Inc.. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://localhost:4000/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-38230514-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+	        
+
+</body>
+</html>

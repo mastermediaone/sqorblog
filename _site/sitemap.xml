@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://localhost:4000/sqor-sports-case-study/</loc>
+    <lastmod>2014-12-12T01:02:36+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/hacking-iframes-for-fun-and-proper-image-orientation/</loc>
+    <lastmod>2014-11-06T09:25:21+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/our-new-athletes/</loc>
+    <lastmod>2014-10-24T03:13:13+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/launches/sqor-launches-crowdfunding/</loc>
+    <lastmod>2014-10-18T00:49:51+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/partnerships/sqor-partners-with-tok-tv/</loc>
+    <lastmod>2014-10-10T02:28:28+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/app/features/sqor-launches-on-android-and-other-releases/</loc>
+    <lastmod>2014-08-30T02:03:36+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/sqor/labs/sqor-engineering/</loc>
+    <lastmod>2014-08-27T04:43:02+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/sqor/athlete/fundraising/cj-watson-and-mitscoots/</loc>
+    <lastmod>2014-08-23T03:03:18+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/sqor/sports%20data/speaking/sports-analytics-summit/</loc>
+    <lastmod>2014-08-22T04:39:00+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/about/sports/fans/hello-world/</loc>
+    <lastmod>2014-08-15T02:47:54+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/Mike-Chabala-on-Zoosk/</loc>
+    <lastmod>2014-08-11T00:00:00+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://localhost:4000/about/</loc>
+    <lastmod>2015-02-26T16:35:38+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/</loc>
+    <lastmod>2015-02-26T16:35:38+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/</loc>
+    <lastmod>2015-02-26T16:35:38+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/posts/</loc>
+    <lastmod>2015-02-26T16:35:38+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/labs/</loc>
+    <lastmod>2015-02-26T16:35:38+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/theme-setup/</loc>
+    <lastmod>2015-02-26T16:35:38+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/about/</loc>
+    <lastmod>2015-02-26T16:35:38+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://localhost:4000/serve/app/features/sqor-launches-on-android-and-other-releases/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/Launches/sqor-launches-crowdfunding/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/sqor-sports-case-study/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/labs/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/hacking-iframes-for-fun-and-proper-image-orientation/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/Partnerships/sqor-partners-with-tok-tv/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/404.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/our-new-athletes/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/about/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/theme-setup/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/About/Sports/Fans/hello-world/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/posts/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/Mike-Chabala-on-Zoosk/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/Sqor/Sports Data/Speaking/sports-analytics-summit/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/Sqor/Labs/sqor-engineering/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/serve/Sqor/Athlete/Fundraising/cj-watson-and-mitscoots/index.html</loc>
+    <lastmod>2015-02-26T16:02:57Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
